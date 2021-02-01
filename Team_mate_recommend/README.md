@@ -1,6 +1,7 @@
 # Find teammates by using clustering way
-_Dataset comes from 2020 TAMU datathon_
+_Data Source : 2020 TAMU Datathon Competition_
 
+## Quick View
 - Kmodes is a clustering method focus on categorical data.
 - Some columns contain too many values, so appropriate clean techniques were applied to simplified data into categorical type.
 - The estimation is conducted by comparing cost value between variant number of clusters, the optimal point should see decreasing rate of cost started to slow.
