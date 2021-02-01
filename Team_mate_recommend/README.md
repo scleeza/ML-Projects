@@ -1,4 +1,4 @@
-# Find teammates by using clustering way
+# Find teammates using K-Mode clustering.
 _Data Source : 2020 TAMU Datathon Competition_
 
 ## Quick View
