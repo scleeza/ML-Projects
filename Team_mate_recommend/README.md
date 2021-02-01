@@ -6,6 +6,8 @@ __Goal__: Develope a way to recommend team mates for future event, data based on
 
 __Metrics__: None, this was unsupervised learning goal.
 
+__Results__:
+
 - Kmodes is a clustering method focus on categorical data.
 - Some columns contain too many values, so appropriate clean techniques were applied to simplified data into categorical type.
 - The estimation is conducted by comparing cost value between variant number of clusters, the optimal point should see decreasing rate of cost started to slow.
