@@ -1,5 +1,6 @@
 # Find teammates using K-Mode clustering.
 _Data Source : 2020 TAMU Datathon Competition_
+_sklearn, pandas , numpy, seaborn_
 
 ## Quick View
 __Goal__: Develope a way to recommend team mates for future event, data based on applicants' questionarie answer. (e.g. School, location, major...etc)
