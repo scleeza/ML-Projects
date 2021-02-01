@@ -6,6 +6,8 @@ __Goal__: it is trying to use passenger list (e.g. Name, Sex, Class, Age...etc) 
 
 __Metrics__: Accuracy 
 
+__Results__:
+
 - __Baseline:__ 
     * NaiveBayes (val_acc = 0.78)
     * Logistic (val_acc = 0.79)
