@@ -15,9 +15,9 @@ __Results__:
 
 - __Feature Engineering:__
     * Have age from continuous number into categorical bins
-    * Use to title to verified sex/age
-    * create new feature "family size" by sum up parents and childern
-    * one-hot-label to categorical features, and Standarscaler() for numericals.
+    * Clean text feature "Title"
+    * Create new feature "family size" by sum up parents and childern
+    * One-hot-label to categorical features, and Standarscaler() for numericals.
     
     
 - __ML Models:__
