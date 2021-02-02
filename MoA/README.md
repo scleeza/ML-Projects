@@ -25,7 +25,7 @@ __Procedure__:
          - One-hot-labeling  
          
    - Build DNN model with 3 NN layer     
-   - Use __keras.tuner__ to do hyper parameters tuning [Notebook](hyperparam.ipynb)
+   - Use __keras.tuner__ to do hyper parameters tuning and code is in [Notebook](hyperparam.ipynb)
     
     
 
