@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6e53ce02-0d3f-4904-9cf8-62088b5de039" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Team_mate_recommend/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Team_mate_recommend/Team_mate_recommend .ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Titanic/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoA/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/MoA/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MoA/regulation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/MoA/regulation.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,5 +63,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
