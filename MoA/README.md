@@ -13,7 +13,7 @@ __Metrics__: minimum Log loss
 __Procedure__:
    - MoA tag are extremely imbalanced, average 89 positive tags in each column from 21K entries
     
-   - Label Smoothing has been conducted to help improve accuracy in this multiple output case[A great explanation here](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/)
+   - Label Smoothing has been conducted to help improve accuracy in this multiple output case [A great explanation here](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/)
     
    - Simple Data Merge on Cell and Gene data
     
