@@ -27,4 +27,4 @@ __Results__:
     * Random Forest (val_acc:0.831)
     * SVM (val_acc:0.829)
     * XGBoost (Val_acc:0.841)
-    > All models has been finetune hyperparameters using RandomSearchCV
+    > All models has been finetuned by RandomSearchCV
