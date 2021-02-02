@@ -21,10 +21,10 @@ __Procedure__:
     
     - Use Pipeline function to automatically finished
         - Numerical data
-         - Quantile transform
-         - PCA
+          - Quantile transform
+          - PCA
         - Categorical
-         - One-hot-labeling  
+          - One-hot-labeling  
          
     - Build DNN model with 3 NN layer     
     - Use __keras.tuner__ to do hyper parameters tuning [Notebook](hyperparam.ipynb)
