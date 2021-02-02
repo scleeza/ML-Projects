@@ -11,7 +11,10 @@ __Goal__: Predict MoA (only 0 and 1) from data of gene and cell vitality, build 
 __Metrics__: minimum Log loss
 
 __Procedure__:
-   - MoA tag are extremely imbalanced, average 89 positive tags in each column from 21K entries
+   - MoA tag are extremely imbalanced, average 89 positive tags in each column from 21K entries, so a special kfold function has beed used
+   ```python
+   from iterstrat.ml_stratifiers import MultilabelStratifiedKFold
+   ```
     
    - Label Smoothing has been conducted to help improve accuracy in this multiple output case [A great explanation here](https://www.pyimagesearch.com/2019/12/30/label-smoothing-with-keras-tensorflow-and-deep-learning/)
     
